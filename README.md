@@ -1,2 +1,2 @@
 # InflamPred
-![Uploading image.png…]()
+
